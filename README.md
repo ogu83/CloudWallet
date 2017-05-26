@@ -1,6 +1,6 @@
 # CloudWallet
 
-The android native client version of my Cloud Wallet Project.
+The android native client version of my Cloud Wallet Project (https://cloudwallet.codeplex.com/).
 
 Don't try to remember every credit card, email, forum and account password of yours. Store them with Cloud Wallet in the skydrive and get them needed.
 
