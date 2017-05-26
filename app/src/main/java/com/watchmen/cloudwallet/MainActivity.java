@@ -17,6 +17,8 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 
+import com.watchmen.cloudwallet.Crypto.AESHelper;
+
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileInputStream;

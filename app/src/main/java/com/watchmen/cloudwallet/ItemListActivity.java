@@ -15,6 +15,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 
+import com.watchmen.cloudwallet.Models.ItemVM;
+import com.watchmen.cloudwallet.Models.WalletVM;
 import com.watchmen.cloudwallet.dummy.DummyContent;
 
 import java.util.Collection;

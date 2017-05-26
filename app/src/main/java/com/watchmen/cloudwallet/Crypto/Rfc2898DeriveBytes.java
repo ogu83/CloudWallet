@@ -1,4 +1,4 @@
-package com.watchmen.cloudwallet;
+package com.watchmen.cloudwallet.Crypto;
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;

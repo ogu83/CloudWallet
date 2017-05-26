@@ -1,4 +1,4 @@
-package com.watchmen.cloudwallet;
+package com.watchmen.cloudwallet.Models;
 
 import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.Root;
